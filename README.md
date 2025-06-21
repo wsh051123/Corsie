@@ -89,7 +89,7 @@ python --version
 
 ### 2. 克隆项目
 ```bash
-git clone https://github.com/KercyDing/Corsie.git
+git clone https://github.com/wsh051123/Corsie.git
 cd Corsie
 ```
 
